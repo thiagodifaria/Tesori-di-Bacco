@@ -8,6 +8,8 @@
 
 A aplicação está hospedada no Netlify com deploy automático e pode ser testada completamente online. Explore todas as funcionalidades, navegue pelo catálogo de vinhos, teste o sistema de assinatura e descubra a experiência completa do Tesori di Bacco diretamente no seu navegador.
 
+## 📘 Descrição
+
 Tesori di Bacco é uma aplicação web front-end sofisticada concebida como uma plataforma exclusiva para um clube de vinhos premium inspirado na tradição italiana. Este projeto foi meticulosamente desenvolvido utilizando tecnologias modernas para proporcionar aos usuários uma experiência digital rica e elegante, centrada na descoberta e apreciação de vinhos selecionados. A arquitetura da aplicação segue padrões modernos de componentização React, oferecendo uma navegação fluida entre um catálogo abrangente de vinhos artesanais, diferentes níveis de assinatura exclusivos, parcerias com restaurantes renomados e conteúdo editorial especializado sobre o universo vinícola. O sistema se destaca pela sua identidade visual refinada, interface responsiva construída com Tailwind CSS, sistema de autenticação simulado robusto e uma experiência de usuário cuidadosamente elaborada que reflete a elegância e tradição da cultura vinícola italiana.
 
 ## 📸 Screenshots
@@ -327,7 +329,7 @@ MOCK_SUBSCRIPTION_TIERS: SubscriptionTier[]
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 🇮🇹 Inspiração Cultural
+## :it: Inspiração Cultural
 
 O projeto se inspira profundamente na rica tradição vinícola italiana, incorporando:
 - **Nomenclatura Italiana**: Nomes autênticos e evocativos
