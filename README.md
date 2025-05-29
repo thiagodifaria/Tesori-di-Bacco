@@ -7,19 +7,19 @@ Tesori di Bacco é uma aplicação web front-end sofisticada concebida como uma 
 ## 📸 Screenshots
 
 ### Homepage & Verificação de Idade
-*[public\images\screenshots\homepage.png]*
+[public\images\screenshots\homepage.png]
 
 ### Catálogo de Vinhos - La Collezione Frescobaldi
-*[public\images\screenshots\catalogo_de_vinhos.png]*
+[public\images\screenshots\catalogo_de_vinhos.png]
 
-### Sistema de Assinatura & Área do Membro
-*[public\images\screenshots\sistema_de_assinatura.png public\images\screenshots\area_de_membros.png]*
+### Sistema de Assinatura
+[public\images\screenshots\sistema_de_assinatura.png]
 
 ### Tavole del Gusto - Restaurantes Parceiros
-*[public\images\screenshots\restaurantes.png]*
+[public\images\screenshots\restaurantes.png]
 
 ### Il Diario del Sommelier - Blog Editorial
-*[public\images\screenshots\blog.png]*
+[public\images\screenshots\blog.png]
 
 ## 🍷 Funcionalidades
 
