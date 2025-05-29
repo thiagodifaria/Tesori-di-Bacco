@@ -2,6 +2,12 @@
 
 > **Nota Importante**: Este é um projeto pessoal desenvolvido exclusivamente para fins de estudo e demonstração de habilidades em desenvolvimento front-end. Nasceu da combinação entre minha paixão por vinhos, pela rica cultura italiana e pela programação. Embora o website e toda a experiência possam parecer reais e profissionais, trata-se apenas de um projeto fictício criado para explorar tecnologias modernas e conceitos de UX/UI. Todos os dados são simulados e não representam uma empresa ou serviço real.
 
+## 🌐 Demo Online
+
+**Acesse a aplicação em tempo real**: [https://tesoridibacco.netlify.app/](https://tesoridibacco.netlify.app/)
+
+A aplicação está hospedada no Netlify com deploy automático e pode ser testada completamente online. Explore todas as funcionalidades, navegue pelo catálogo de vinhos, teste o sistema de assinatura e descubra a experiência completa do Tesori di Bacco diretamente no seu navegador.
+
 Tesori di Bacco é uma aplicação web front-end sofisticada concebida como uma plataforma exclusiva para um clube de vinhos premium inspirado na tradição italiana. Este projeto foi meticulosamente desenvolvido utilizando tecnologias modernas para proporcionar aos usuários uma experiência digital rica e elegante, centrada na descoberta e apreciação de vinhos selecionados. A arquitetura da aplicação segue padrões modernos de componentização React, oferecendo uma navegação fluida entre um catálogo abrangente de vinhos artesanais, diferentes níveis de assinatura exclusivos, parcerias com restaurantes renomados e conteúdo editorial especializado sobre o universo vinícola. O sistema se destaca pela sua identidade visual refinada, interface responsiva construída com Tailwind CSS, sistema de autenticação simulado robusto e uma experiência de usuário cuidadosamente elaborada que reflete a elegância e tradição da cultura vinícola italiana.
 
 ## 📸 Screenshots
@@ -333,7 +339,7 @@ O projeto se inspira profundamente na rica tradição vinícola italiana, incorp
 
 Thiago Di Faria - [thiagodifaria@gmail.com](mailto:thiagodifaria@gmail.com)
 
-Link do projeto: []()
+Link do projeto: [https://github.com/thiagodifaria/Tesori-di-Bacco](https://github.com/thiagodifaria/Tesori-di-Bacco)
 
 **Projeto**: Tesori di Bacco - Demonstração Front-end  
 **Tecnologia**: React + TypeScript + Vite + Tailwind  
