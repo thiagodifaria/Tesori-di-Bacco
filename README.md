@@ -8,6 +8,23 @@
 
 A aplicação está hospedada no Netlify com deploy automático e pode ser testada completamente online. Explore todas as funcionalidades, navegue pelo catálogo de vinhos, teste o sistema de assinatura e descubra a experiência completa do Tesori di Bacco diretamente no seu navegador.
 
+## 🔐 Credenciais para Teste
+
+Para testar o sistema de autenticação e diferentes níveis de acesso, utilize as seguintes credenciais de usuários pré-cadastrados:
+
+### Usuários de Teste Disponíveis
+
+| **Email** | **Senha** | **Tier** | **Descrição** |
+|-----------|-----------|----------|---------------|
+| `explorador@gmail.com` | `senha123` | Il Principiante | Tier básico para iniciantes |
+| `curioso@gmail.com` | `senha123` | L'Esploratore | Tier mais popular |
+| `sobmedida@gmail.com` | `senha123` | L'Intenditore | Tier intermediário |
+| `colecionador@gmail.com` | `senha123` | Il Raffinato | Tier avançado |
+| `conoscitore@gmail.com` | `senha123` | O Conoscitore Supremo | Tier premium |
+| `elitedibacco@gmail.com` | `senha123` | L'Elite di Bacco | Tier VIP exclusivo |
+
+> **Dica**: Cada usuário possui diferentes níveis de acesso e benefícios. Teste com diferentes contas para experimentar todas as funcionalidades disponíveis em cada tier de assinatura.
+
 ## 📕 Descrição
 
 Tesori di Bacco é uma aplicação web front-end sofisticada concebida como uma plataforma exclusiva para um clube de vinhos premium inspirado na tradição italiana. Este projeto foi meticulosamente desenvolvido utilizando tecnologias modernas para proporcionar aos usuários uma experiência digital rica e elegante, centrada na descoberta e apreciação de vinhos selecionados. A arquitetura da aplicação segue padrões modernos de componentização React, oferecendo uma navegação fluida entre um catálogo abrangente de vinhos artesanais, diferentes níveis de assinatura exclusivos, parcerias com restaurantes renomados e conteúdo editorial especializado sobre o universo vinícola. O sistema se destaca pela sua identidade visual refinada, interface responsiva construída com Tailwind CSS, sistema de autenticação simulado robusto e uma experiência de usuário cuidadosamente elaborada que reflete a elegância e tradição da cultura vinícola italiana.
