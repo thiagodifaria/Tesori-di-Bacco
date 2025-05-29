@@ -1,0 +1,19 @@
+*.tsx linguist-language=TypeScript
+*.ts linguist-language=TypeScript
+
+*.html linguist-language=HTML
+
+README.md linguist-documentation
+LICENSE linguist-documentation
+
+package.json linguist-language=JSON linguist-documentation
+tsconfig.json linguist-language=JSON linguist-documentation
+
+dist/* linguist-generated=true
+
+node_modules/* linguist-vendored=true
+
+package-lock.json linguist-generated=true
+yarn.lock linguist-generated=true # Se você usar Yarn
+
+.vite/* linguist-generated=true
