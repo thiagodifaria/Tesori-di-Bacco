@@ -14,6 +14,6 @@ dist/* linguist-generated=true
 node_modules/* linguist-vendored=true
 
 package-lock.json linguist-generated=true
-yarn.lock linguist-generated=true # Se você usar Yarn
+yarn.lock linguist-generated=true 
 
 .vite/* linguist-generated=true
