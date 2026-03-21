@@ -281,21 +281,6 @@ npm run build
 - Otimização de imagens
 - Compressão de assets
 
-## 🛣️ Roadmap
-
-- [ ] **Melhoria no Catálogo de Vinhos**: Adicionar TODAS as imagens necessárias para o website substituindo os placeholders
-- [ ] **Melhoria no Catálogo de Vinhos**: Adicionar mais Vinhos
-- [ ] **Melhoria no Catálogo de Restaurantes**: Adicionar mais restaurantes e mais conteúdos relacionados
-- [ ] **Implementação Total da Responsabilidade Mobile**: Refinar as paginas e os módulos para ficarem mais responsivos a dispositivos moveis
-- [ ] **Refinamento do Sistema de Cadastro**: Implementar mais campos de preenchimentos 
-- [ ] **Sistema de Pagamento**: Integração com Stripe/PagSeguro
-- [ ] **PWA**: Transformar em Progressive Web App
-- [ ] **Testes E2E**: Cypress para testes de interface
-- [ ] **Internacionalização**: Suporte multi-idioma (PT/EN/IT)
-- [ ] **Analytics**: Integração com Google Analytics
-- [ ] **SEO Optimization**: Meta tags e sitemap
-- [ ] **Sistema de Reviews**: Avaliações de vinhos por membros
-
 ## 🎯 Recursos Avançados
 
 ### Animações UX

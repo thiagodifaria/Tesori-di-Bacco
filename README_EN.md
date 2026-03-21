@@ -281,21 +281,6 @@ npm run build
 - Image optimization
 - Asset compression
 
-## 🛣️ Roadmap
-
-- [ ] **Wine Catalog Improvement**: Add ALL necessary images for the website replacing placeholders
-- [ ] **Wine Catalog Improvement**: Add more wines
-- [ ] **Restaurant Catalog Improvement**: Add more restaurants and related content
-- [ ] **Complete Mobile Responsiveness Implementation**: Refine pages and modules for better mobile device responsiveness
-- [ ] **Registration System Refinement**: Implement more form fields
-- [ ] **Payment System**: Integration with Stripe/PagSeguro
-- [ ] **PWA**: Transform into Progressive Web App
-- [ ] **E2E Tests**: Cypress for interface testing
-- [ ] **Internationalization**: Multi-language support (PT/EN/IT)
-- [ ] **Analytics**: Google Analytics integration
-- [ ] **SEO Optimization**: Meta tags and sitemap
-- [ ] **Review System**: Wine reviews by members
-
 ## 🎯 Advanced Features
 
 ### UX Animations
