@@ -19,8 +19,24 @@
 
 ---
 
+## Visual Showcase
+
+| Homepage & Age Verification | Wine Catalog |
+|-----------------------------|--------------|
+| ![Homepage & Age Verification](client-web/public/images/screenshots/homepage.png) | ![Wine Catalog - La Collezione Frescobaldi](client-web/public/images/screenshots/catalogo_de_vinhos.png) |
+
+| Subscription System | Partner Restaurants |
+|---------------------|---------------------|
+| ![Subscription System](client-web/public/images/screenshots/sistema_de_assinatura.png) | ![Tavole del Gusto - Partner Restaurants](client-web/public/images/screenshots/restaurantes.png) |
+
+| Editorial Blog |
+|----------------|
+| ![Il Diario del Sommelier - Editorial Blog](client-web/public/images/screenshots/blog.png) |
+
+---
+
 ## What is Tesori di Bacco?
-Tesori di Bacco is a **sophisticated wine club platform**that combines Italian wine tradition with modern web technologies. This**front-end showcase project** demonstrates advanced React development skills through an elegant, fully responsive wine discovery experience.
+Tesori di Bacco is a **sophisticated wine club platform** that combines Italian wine tradition with modern web technologies. This **front-end showcase project** demonstrates advanced React development skills through an elegant, fully responsive wine discovery experience.
 
 ### Key Highlights
 
@@ -51,9 +67,9 @@ Partner restaurant network with exclusive perks
 **[View Live Application](https://tesoridibacco.netlify.app/)**
 
 **Test Credentials:**
-- **Email:**`explorador@gmail.com` |**Password:** `senha123`
-- **Email:**`curioso@gmail.com` |**Password:** `senha123`
-- **Email:**`colecionador@gmail.com` |**Password:** `senha123`
+- **Email:** `explorador@gmail.com` | **Password:** `senha123`
+- **Email:** `curioso@gmail.com` | **Password:** `senha123`
+- **Email:** `colecionador@gmail.com` | **Password:** `senha123`
 
 *Try different accounts to experience various membership tiers!*
 
