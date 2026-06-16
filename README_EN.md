@@ -2,19 +2,17 @@
 
 > **Important Note**: This is a personal project developed exclusively for study purposes and demonstration of front-end development skills. It was born from the combination of my passion for wines, rich Italian culture, and programming. Although the website and entire experience may seem real and professional, this is only a fictional project created to explore modern technologies and UX/UI concepts. All data is simulated and does not represent a real company or service.
 
-## 🌐 Online Demo
+## Online Demo
 
 **Access the application in real time**: [https://tesoridibacco.netlify.app/](https://tesoridibacco.netlify.app/)
-
 The application is hosted on Netlify with automatic deployment and can be fully tested online. Explore all features, browse the wine catalog, test the subscription system, and discover the complete Tesori di Bacco experience directly in your browser.
 
-## 🔐 Test Credentials
-
+## Test Credentials
 To test the authentication system and different access levels, use the following pre-registered user credentials:
 
 ### Available Test Users
 
-| **Email** | **Password** | **Tier** | **Description** |
+| **Email**|**Password**|**Tier**|**Description** |
 |-----------|-------------|----------|-----------------|
 | `explorador@gmail.com` | `senha123` | Il Principiante | Basic tier for beginners |
 | `curioso@gmail.com` | `senha123` | L'Esploratore | Most popular tier |
@@ -25,53 +23,52 @@ To test the authentication system and different access levels, use the following
 
 > **Tip**: Each user has different access levels and benefits. Test with different accounts to experience all features available in each subscription tier.
 
-## 📕 Description
-
+## Description
 Tesori di Bacco is a sophisticated front-end web application conceived as an exclusive platform for a premium wine club inspired by Italian tradition. This project was meticulously developed using modern technologies to provide users with a rich and elegant digital experience, centered on the discovery and appreciation of selected wines. The application architecture follows modern React componentization patterns, offering fluid navigation between a comprehensive catalog of artisanal wines, different exclusive subscription levels, partnerships with renowned restaurants, and specialized editorial content about the wine universe. The system stands out for its refined visual identity, responsive interface built with Tailwind CSS, robust simulated authentication system, and a carefully crafted user experience that reflects the elegance and tradition of Italian wine culture.
 
-## 📸 Screenshots
+## Screenshots
 
 ### Homepage
-![Homepage & Age Verification](public/images/screenshots/homepage.png)
+![Homepage & Age Verification](client-web/public/images/screenshots/homepage.png)
 
 ### Wine Catalog - La Collezione Frescobaldi
-![Wine Catalog - La Collezione Frescobaldi](public/images/screenshots/catalogo_de_vinhos.png)
+![Wine Catalog - La Collezione Frescobaldi](client-web/public/images/screenshots/catalogo_de_vinhos.png)
 
 ### Subscription System
-![Subscription System](public/images/screenshots/sistema_de_assinatura.png)
+![Subscription System](client-web/public/images/screenshots/sistema_de_assinatura.png)
 
 ### Tavole del Gusto - Partner Restaurants
-![Tavole del Gusto - Partner Restaurants](public/images/screenshots/restaurantes.png)
+![Tavole del Gusto - Partner Restaurants](client-web/public/images/screenshots/restaurantes.png)
 
 ### Il Diario del Sommelier - Editorial Blog
-![Il Diario del Sommelier - Editorial Blog](public/images/screenshots/blog.png)
+![Il Diario del Sommelier - Editorial Blog](client-web/public/images/screenshots/blog.png)
 
-## 🍷 Features
+## Features
 
-- ✅ **Age Verification System**: Entry portal with CPF validation and terms acceptance
-- ✅ **Complete Wine Catalog**: Detailed exploration of "La Collezione Frescobaldi"
+- **Age Verification System**: Entry portal with CPF validation and terms acceptance
+- **Complete Wine Catalog**: Detailed exploration of "La Collezione Frescobaldi"
   - **Advanced Filters**: By region, grape, producer, vintage, style and price range
   - **Smart Search**: By wine name or producer
   - **Responsive Interface**: Adaptable filters for mobile
-- ✅ **Immersive Detail Pages**: Complete information about wines and producers
+- **Immersive Detail Pages**: Complete information about wines and producers
   - **Tasting Notes**: Aromatic profile and sensory analysis
   - **Detailed Pairing**: Gastronomic suggestions with recipes
   - **Gastronomic Partnerships**: Restaurants that serve each wine
-- ✅ **Subscription System**: Six levels of exclusive plans
+- **Subscription System**: Six levels of exclusive plans
   - **Public Plans**: From beginner to supreme connoisseur
   - **VIP Plans**: Invitation-only access for elite members
   - **Member Area**: Personalized dashboard with history
-- ✅ **Tavole del Gusto**: Network of partner restaurants
+- **Tavole del Gusto**: Network of partner restaurants
   - **Location Filters**: City, country and Michelin stars
   - **Exclusive Benefits**: Advantages for club members
   - **Complete Profiles**: Chef, philosophy, signature dishes
-- ✅ **Il Diario del Sommelier**: Specialized editorial blog
+- **Il Diario del Sommelier**: Specialized editorial blog
   - **Premium Articles**: Exclusive content for subscribers
   - **Category Search**: Winemaking, tasting, terroir
   - **Expert Authors**: Renowned sommeliers and oenologists
-- ✅ **Complete Authentication**: Login, registration and profile management
+- **Complete Authentication**: Login, registration and profile management
 
-## 🛠️ Technologies
+## Technologies
 
 - **React 19.1.0**: Main library for interactive components
 - **TypeScript 5.7.2**: Static typing for code robustness
@@ -87,18 +84,19 @@ Tesori di Bacco is a sophisticated front-end web application conceived as an exc
 - **Smooth Animations**: Page transitions and entrance effects
 - **Responsive Interface**: Complete adaptation for mobile devices
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js 18+ or higher
 - npm or yarn (package manager)
 - Modern browser with ES6+ support
 
-## 🚀 Installation
+## Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/tesori-di-bacco.git
 cd tesori-di-bacco
+cd client-web
 
 # Install dependencies
 npm install
@@ -111,9 +109,8 @@ npm run dev
 yarn dev
 ```
 
-## ⚙️ Configuration
-
-The project uses mocked data defined in `src/constants.ts`. For customization:
+## Configuration
+The project uses mocked data defined in `client-web/src/constants.ts`. For customization:
 
 1. **Brand Identity**:
    ```typescript
@@ -131,9 +128,9 @@ The project uses mocked data defined in `src/constants.ts`. For customization:
    }
    ```
 
-3. **Mocked Data**: Customize wines, restaurants and articles in `constants.ts`
+3. **Mocked Data**: Customize wines, restaurants and articles in `client-web/src/constants.ts`
 
-## 🖥️ Running the Application
+## Running the Application
 
 ```bash
 # Development
@@ -148,10 +145,9 @@ npm run preview
 # Linting
 npm run lint
 ```
-
 Access `http://localhost:5173` to view the application.
 
-## 🍾 How to Use
+## How to Use
 
 ### Age Verification
 1. When accessing for the first time, complete age verification
@@ -179,10 +175,10 @@ Available Plans:
 - Filter by location and member benefits
 - Discover exclusive pairings
 
-## 🧪 Project Structure
+## Project Structure
 
 ```
-src/
+client-web/src/
 ├── components/          # Reusable components
 │   ├── icons/          # Custom SVG icons
 │   ├── Button.tsx      # Button with variants
@@ -200,7 +196,7 @@ src/
 └── App.tsx            # Root component and routing
 ```
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 - **Burgundy Accent** (`#780027`): Primary actions and highlights
@@ -214,7 +210,7 @@ src/
 - **Modal**: Modal system for confirmations
 - **Button**: Buttons with 4 variants (primary, secondary, outline, text)
 
-## 📱 Responsive Features
+## Responsive Features
 
 ### Desktop
 - Complete horizontal navigation
@@ -227,7 +223,7 @@ src/
 - Touch-adaptable cards
 - Optimized typography for reading
 
-## 🔐 Authentication System
+## Authentication System
 
 ### Context Provider
 ```typescript
@@ -241,7 +237,7 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 - **Member Area**: Personalized dashboard
 - **Logout**: Complete session cleanup
 
-## 🍽️ Gastronomic Integrations
+## Gastronomic Integrations
 
 ### Partner Restaurants
 - **Advanced Filters**: By Michelin stars and benefits
@@ -254,7 +250,7 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 - Complementary recipes
 - Links to related articles
 
-## 📚 Editorial Blog
+## Editorial Blog
 
 ### Il Diario del Sommelier
 - **Premium Articles**: Marked exclusive content
@@ -262,7 +258,7 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 - **Smart Search**: By title, author, category
 - **Expert Authors**: Fictional sommelier profiles
 
-## 🚀 Build and Deploy
+## Build and Deploy
 
 ### Production Build
 ```bash
@@ -281,7 +277,7 @@ npm run build
 - Image optimization
 - Asset compression
 
-## 🎯 Advanced Features
+## Advanced Features
 
 ### UX Animations
 - **Page Transitions**: Smooth fade in/out
@@ -301,7 +297,7 @@ npm run build
 - **Contrast**: WCAG guidelines compliance
 - **Focus Management**: Clear visual states
 
-## 📄 Mocked Data
+## Mocked Data
 
 ### Main Structure
 ```typescript
@@ -327,26 +323,22 @@ MOCK_SUBSCRIPTION_TIERS: SubscriptionTier[]
 - Users ↔ Tiers (by tierId)
 - Articles ↔ Wines (featuredWineIds)
 
-## 📜 License
-
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏰 Cultural Inspiration
-
+## Cultural Inspiration
 The project draws deep inspiration from rich Italian wine tradition, incorporating:
 - **Italian Nomenclature**: Authentic and evocative names
 - **Classic Aesthetics**: Design reminiscent of traditional wineries
 - **Gastronomic Culture**: Pairings respecting culinary traditions
 - **Artisanal Exclusivity**: Philosophy of unique and limited products
 
-## 📞 Contact
-
+## Contact
 Thiago Di Faria - [thiagodifaria@gmail.com](mailto:thiagodifaria@gmail.com)
-
 Project link: [https://github.com/thiagodifaria/Tesori-di-Bacco](https://github.com/thiagodifaria/Tesori-di-Bacco)
 
-**Project**: Tesori di Bacco - Front-end Demonstration  
-**Technology**: React + TypeScript + Vite + Tailwind  
+**Project**: Tesori di Bacco - Front-end Demonstration
+**Technology**: React + TypeScript + Vite + Tailwind
 **Status**: Mocked data for demonstration
 
 ---
